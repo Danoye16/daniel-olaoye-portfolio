@@ -129,7 +129,7 @@ I'm open to connecting with professionals, organizations, recruiters, and collab
 
 📧 **Email:** [danoye16@gmail.com](mailto:danoye16@gmail.com)
 
-🔗 **LinkedIn:** [www.linkedin.com/in/olaoye-daniel](https://www.linkedin.com/in/olaoye-daniel)
+🔗 **LinkedIn:** linkedin.com/in/daniel-olaoye
 
 ---
 
