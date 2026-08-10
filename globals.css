@@ -1,0 +1,15 @@
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Inter,Arial,sans-serif;background:#f7f9fc;color:#172033;line-height:1.6}
+a{color:inherit;text-decoration:none}.container{max-width:1120px;margin:auto;padding:0 24px}
+nav{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.94);backdrop-filter:blur(12px);border-bottom:1px solid #e6eaf0}
+.nav{height:70px;display:flex;align-items:center;justify-content:space-between}.brand{font-weight:800;letter-spacing:.4px}.navlinks{display:flex;gap:20px;font-size:14px;color:#526078}
+.hero{padding:92px 0 70px;background:linear-gradient(135deg,#081b3a 0%,#0d3d70 55%,#116b8f 100%);color:white}
+.eyebrow{font-size:13px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:#8ed8ff}.hero h1{font-size:clamp(42px,7vw,72px);line-height:1.02;margin:12px 0 20px;max-width:900px}.hero p{font-size:20px;max-width:760px;color:#dbeeff}
+.actions{display:flex;gap:12px;flex-wrap:wrap;margin-top:30px}.btn{display:inline-block;padding:12px 18px;border-radius:10px;font-weight:700;border:1px solid transparent}.primary{background:white;color:#082044}.outline{border-color:#8ed8ff;color:white}
+section{padding:72px 0}.section-head{max-width:760px;margin-bottom:34px}.section-head h2{font-size:36px;margin:0 0 8px}.muted{color:#617087}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.card{background:white;border:1px solid #e4e9f0;border-radius:16px;padding:24px;box-shadow:0 8px 30px rgba(15,35,65,.05)}.card h3{margin:0 0 9px}.tag{display:inline-block;padding:5px 9px;border-radius:999px;background:#eaf5fb;color:#07557d;font-size:12px;font-weight:700;margin:3px 3px 3px 0}
+.project{display:flex;flex-direction:column;min-height:240px}.project .links{margin-top:auto;padding-top:18px}.links a{color:#075d8a;font-weight:700;font-size:14px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:22px}.contact{background:#081b3a;color:white}.contact .muted{color:#c7d8ea}
+footer{padding:28px 0;background:#06142b;color:#b9c8da;font-size:14px}
+ul{padding-left:20px}.skillbox{background:#fff;border:1px solid #e4e9f0;border-radius:16px;padding:22px}
+@media(max-width:850px){.grid{grid-template-columns:1fr 1fr}.navlinks{display:none}.two{grid-template-columns:1fr}}
+@media(max-width:560px){.grid{grid-template-columns:1fr}.hero{padding-top:65px}.hero p{font-size:17px}.section-head h2{font-size:30px}}
