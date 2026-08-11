@@ -2,137 +2,183 @@
 
 ### AI Consultant | AI Trainer | AI Evaluator | Prompt Engineering | IT Technical Support
 
-I'm an AI and IT professional with **10+ years of experience** in technical support, ICT instruction, system administration, digital skills training, and technology support.
+I am a Computer Science professional with 10+ years of experience across IT technical support, ICT instruction, system administration, digital skills training, and technology-enabled education.
 
-I’m currently building **DanYem AI Solutions**, an independent AI and technology initiative focused on helping individuals and businesses understand, adopt, and apply AI and digital technologies effectively.
+My current professional focus combines **Generative AI, AI evaluation, prompt engineering, AI-assisted workflows, technical support, and digital skills development**.
 
----
-
-## 🚀 About Me
-
-* 🤖 Interested in **Artificial Intelligence, Generative AI, and AI Applications**
-* 🧠 Focused on **Prompt Engineering, AI Evaluation, and AI Training**
-* 💻 Experienced in **IT Technical Support, System Administration, and ICT Training**
-* ⚙️ Exploring **AI Automation and practical AI-powered workflows**
-* 🎓 **B.Sc. Computer Science — Babcock University**
-* 📜 **Google AI Essentials Certified**
-* 🌍 Based in **Nigeria**
-* 🔨 Building **DanYem AI Solutions**
+I am also building **DanYem AI Solutions**, an independent AI and technology initiative focused on practical AI solutions, AI adoption, automation, digital transformation, and technology education.
 
 ---
 
-## 🔭 What I'm Working On
+## 🤖 AI & Generative AI
 
-* AI and Generative AI projects
-* Prompt engineering and prompt optimization
-* AI evaluation and quality assessment
-* AI training and digital skills development
-* AI automation and productivity workflows
-* Practical AI solutions for individuals and businesses
-* IT support and system administration projects
-* Technology education and digital skills resources
+My current areas of focus include:
 
----
+- Generative AI
+- Prompt Engineering
+- AI Response Evaluation
+- AI Training
+- AI-assisted workflows
+- Human-in-the-loop quality assurance
+- AI-assisted technical problem solving
+- Responsible AI practices
+- AI adoption and digital transformation
 
-## 🛠️ Skills & Technologies
-
-### Artificial Intelligence
-
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-111827?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-111827?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-111827?style=flat-square)
-![AI Evaluation](https://img.shields.io/badge/AI%20Evaluation-111827?style=flat-square)
-![AI Training](https://img.shields.io/badge/AI%20Training-111827?style=flat-square)
-
-### IT & Technical Support
-
-![Technical Support](https://img.shields.io/badge/Technical%20Support-0057D9?style=flat-square)
-![System Administration](https://img.shields.io/badge/System%20Administration-0057D9?style=flat-square)
-![Networking](https://img.shields.io/badge/Networking-0057D9?style=flat-square)
-![Troubleshooting](https://img.shields.io/badge/Troubleshooting-0057D9?style=flat-square)
-![ICT Training](https://img.shields.io/badge/ICT%20Training-0057D9?style=flat-square)
-
-### Tools & Platforms
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat-square)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square)
-![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat-square)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=flat-square)
+My approach combines AI generation with human review, verification, refinement, and quality control.
 
 ---
 
-## 📂 Featured Projects
+## 💻 IT & Technical Support
 
-I use GitHub to document and showcase practical work involving **AI, automation, prompt engineering, digital productivity, technical support, and technology education**.
+I bring 10+ years of practical experience across:
 
-### 🤖 AI & Prompt Engineering
+- IT Technical Support
+- Hardware & Software Troubleshooting
+- Network Troubleshooting
+- System Administration
+- Microsoft 365 Support
+- Technical Documentation
+- User Support & Problem Solving
+- ICT Training
+- Digital Skills Development
 
-Projects focused on prompt design, AI-assisted workflows, evaluation, and practical applications of Generative AI.
-
-### ⚙️ AI Automation
-
-Experiments and solutions exploring how AI can automate repetitive tasks, improve workflows, and increase productivity.
-
-### 💻 IT & Technical Support
-
-Practical documentation, troubleshooting resources, system administration work, and technology solutions.
-
-### 🎓 Digital Skills & AI Training
-
-Resources and projects designed to help individuals understand and effectively use AI and digital technologies.
-
-> 🚧 More projects are being developed and documented.
+I approach technical problems systematically: understand the issue, identify the cause, implement an appropriate solution, verify the result, and document the resolution.
 
 ---
 
-## 📈 My Professional Focus
+## 📂 Professional Portfolio
 
-I'm particularly interested in opportunities involving:
+My portfolio contains practical work covering:
 
-* **AI Training**
-* **AI Evaluation**
-* **AI Data & Quality**
-* **Prompt Engineering**
-* **AI Adoption**
-* **AI Automation**
-* **Generative AI**
-* **Technical Support**
-* **IT Support**
-* **System Administration**
-* **Digital Skills Training**
+- AI Evaluation
+- Generative AI
+- Prompt Engineering
+- AI-assisted Workflows
+- AI-assisted Coding
+- IT Technical Support
+- Microsoft 365
+- ICT Instruction
+- Excel & Productivity
+- Digital Skills Training
+
+### 🌐 View My Full Portfolio
+
+👉 **[Visit My Professional Portfolio](https://daniel-olaoye-portfolio.vercel.app/)**
+
+### ⭐ Featured Portfolio Areas
+
+- **AI Response Evaluation**
+- **Generative AI**
+- **Prompt Evaluation**
+- **AI PowerPoint & Presentation Development**
+- **IT Technical Support**
+- **Microsoft 365 IT Support**
+- **ICT Instruction**
+- **Excel & Productivity**
 
 ---
 
-## 🎯 My Purpose
+## 🛠️ Selected Projects
 
-> **AI WITH PURPOSE, INNOVATION WITH IMPACT.**
+### Generative AI & AI Evaluation
 
-I believe technology should not simply be innovative — it should be **useful, practical, accessible, and capable of solving real-world problems**.
+Practical workflows involving prompt engineering, response comparison, quality assessment, evaluation criteria, human review, and output refinement.
 
-My goal is to combine AI, digital skills, technical expertise, and continuous learning to create practical solutions that make technology easier to understand and use.
+### AI-Assisted Coding
+
+Exploration of AI-assisted coding workflows, including translating technical requirements into code, reviewing generated code, troubleshooting, and iterative refinement.
+
+### AI-Assisted eBook Development
+
+Development of structured educational and informational resources using AI-assisted outlining, drafting, review, verification, and refinement.
+
+### IT Technical Support
+
+Practical technical support work covering hardware and software troubleshooting, Windows environments, network connectivity, printers, Microsoft 365, documentation, and user support.
+
+### ICT Instruction
+
+Technology-enabled teaching and digital learning activities involving Computer Science, ICT, Microsoft Office, digital literacy, and responsible AI integration.
+
+---
+
+## 🧠 Core Skills
+
+**Artificial Intelligence**
+
+`Generative AI` `Prompt Engineering` `AI Evaluation` `AI Training` `AI-assisted Workflows` `Human-in-the-Loop QA`
+
+**IT & Technical Support**
+
+`IT Support` `Technical Troubleshooting` `System Administration` `Network Troubleshooting` `Microsoft 365` `Technical Documentation`
+
+**Education & Digital Skills**
+
+`ICT Instruction` `Computer Science` `Digital Skills Training` `Digital Learning` `Technology Education`
+
+**Productivity & Technology**
+
+`Microsoft Excel` `Microsoft Word` `Microsoft PowerPoint` `Google Classroom` `Zoom` `MQL5` `MetaTrader 5`
 
 ---
 
 ## 📜 Certification
 
 **Google AI Essentials**
-Google
+
+---
+
+## 🚀 DanYem AI Solutions
+
+**DanYem AI Solutions** is an independent AI and technology initiative I am currently building.
+
+### AI With Purpose, Innovation With Impact.
+
+The initiative focuses on:
+
+- AI Solutions
+- AI Automation
+- AI Training
+- AI Adoption
+- Digital Transformation
+- Digital Skills Development
+- Practical Technology Education
+
+The goal is to help individuals and organizations understand and use AI and digital technologies more effectively and responsibly.
+
+---
+
+## 🎯 Professional Focus
+
+I am interested in opportunities involving:
+
+- AI Evaluation
+- AI Training
+- Generative AI
+- Prompt Engineering
+- AI Adoption
+- AI-assisted Workflows
+- Technical Support
+- IT Support
+- Microsoft 365
+- ICT Training
+- Digital Skills Development
+- AI-assisted Technical Projects
+
+I am particularly interested in remote and technology-focused opportunities where I can combine my technical background, AI capabilities, problem-solving skills, and educational experience.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to connecting with professionals, organizations, recruiters, and collaborators working in **AI, technology, digital transformation, education, and IT**.
-
 📧 **Email:** [danoye16@gmail.com](mailto:danoye16@gmail.com)
 
-🔗 **LinkedIn:** linkedin.com/in/daniel-olaoye
+🔗 **LinkedIn:** [linkedin.com/in/daniel-olaoye](https://www.linkedin.com/in/daniel-olaoye)
+
+🌐 **Professional Portfolio:** [daniel-olaoye-portfolio.vercel.app](https://daniel-olaoye-portfolio.vercel.app/)
 
 ---
 
-### ⭐ Thanks for visiting my profile!
+### Thank you for visiting my GitHub profile! 👋
 
-If you find any of my projects useful, feel free to ⭐ **star** the repository and explore my work.
+I am continuously learning, building, experimenting, and exploring practical ways to combine **AI, technology, and human expertise** to solve real-world problems.
